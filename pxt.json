@@ -6,18 +6,13 @@
         "device": "*"
     },
     "files": [
-        "main.blocks",
-        "main.ts",
         "README.md",
         "assets.json",
         "countup.ts",
         "images.g.jres",
-        "images.g.ts",
-        "test.ts"
+        "images.g.ts"
     ],
-    "testFiles": [
-        "test.ts"
-    ],
+    "testFiles": [],
     "targetVersions": {
         "branch": "v1.3.49",
         "tag": "v1.3.49",
